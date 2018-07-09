@@ -1,5 +1,4 @@
 
-
 ######   COMPUTE THE SUM OF THE DIGITS OF AN INTEGER #######
                                                      
 import java.util.Scanner;
